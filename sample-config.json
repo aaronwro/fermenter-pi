@@ -1,0 +1,17 @@
+{
+    "COSM_API_URL_BASE": "/v2/feeds/{feednum}.xml",
+    "COSM_API_FEED": "YYYYY",
+    "COSM_API_KEY": "xxxxXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxXXXXXXXXXXX",
+    "COSM_ENABLED": false,
+    "COSM_STRING_TEMP_C_DATA": "MeasuredTempDegC",
+    "COSM_STRING_TARGET_TEMP_DATA": "TargetTempDegC",
+    "COSM_STRING_HEATER_IS_ON_DATA": "HeaterIsOn",
+    "COSM_STRING_TEMP_PERCENT_DIFF_DATA": "Measured-TargetPercentDifference",
+    "DEBUG": true,
+    "FERMENTORTHERMOMETER":"/sys/bus/w1/devices/28-000002aac1bd/w1_slave",
+    "HEATER_GPIO_PIN": 24,
+    "LED_GPIO_PIN": 25,
+    "LOGFILE": "/home/webide/repositories/my-pi-projects/Fermentor/fermentor.log",
+    "MEASUREMENT_INTERVAL_SEC": 10,
+    "TARGET_TEMP_C": 19.0
+}
