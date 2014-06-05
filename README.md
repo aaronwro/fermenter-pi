@@ -5,18 +5,17 @@ python script that monitors a digital temperature sensor connected over i2c and 
 
 Setup Info
 ----------
-Start with [necessary packages][packages] and [COSM Account and Feed][cosm-setup], then modify the _sample-config.json_ file to 
+Start with [necessary packages][packages] and [COSM Account and Feed][cosm-setup]
 
 Bill of Materials
 -----------------
 * raspberry pi model b
 * [Powerswitch Tail II][powerswitch]
 * [Sparkfun DS18B20 Waterproof Temperature Sensor][ds18b20]
-* [Electric Fermentation Heater][heater]
+* [Electric Fermentation Heater][heater] or [http://www.midwestsupplies.com/fermenting-heater.html][]
 
 Acknowledgements
 -----------------
-I was only able to acheive this result with the help of resources including but not limited to:
 * [http://learn.adafruit.com/category/raspberry-pi][adafruit-learn]
 * [http://www.raspberrypi.org/][raspberrypi]
 * [http://docs.python.org/2.7/][python-docs]
