@@ -12,7 +12,7 @@ Bill of Materials
 * raspberry pi model b
 * [Powerswitch Tail II][powerswitch]
 * [Sparkfun DS18B20 Waterproof Temperature Sensor][ds18b20]
-* [Electric Fermentation Heater][heater] or [http://www.midwestsupplies.com/fermenting-heater.html][]
+* [Electric Fermentation Heater][heater] or http://www.midwestsupplies.com/fermenting-heater.html
 
 Acknowledgements
 -----------------
